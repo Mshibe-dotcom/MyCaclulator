@@ -2,6 +2,7 @@
 Normal Calculator created by using HTML and CSS
 
 #A simple, clean calculator built with **HTML** and **CSS** 
+![Image](Image%20/Calc.png)
 
 # Features:
 - Basic arithmetic operations: addition, subtraction, multiplication, division
